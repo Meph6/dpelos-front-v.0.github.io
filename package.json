@@ -1,0 +1,11 @@
+{
+  "name": "dpelos-front-v.0.github.io",
+  "version": "1.0.0",
+  "description": "\"Dependencias para el diseño y uso de js en el front\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dpelos",
+  "license": "Apache-2.0"
+}
