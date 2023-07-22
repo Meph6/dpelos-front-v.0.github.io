@@ -4,7 +4,8 @@
   "description": "\"Dependencias para el diseño y uso de js en el front\"",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-tw": "npx tailwindcss -i ./src/css/app.css -o ./src/dist/app.css"
   },
   "author": "Dpelos",
   "license": "Apache-2.0",

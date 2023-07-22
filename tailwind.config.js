@@ -1,10 +1,21 @@
 /** @type {import('tailwindcss').Config} */
 
 module.exports = {
-  content: ["./index.html"],
+
+  // NO OLVIDAR PONER TODOS LOS JS SI SE UTIILIZAN
+  content: [
+    './index.html'
+  ],
+
   theme: {
-    extend: {},
+
+    extend: {
+
+    },
   },
-  plugins: [],
+
+  plugins: [
+    
+  ],
 }
 
