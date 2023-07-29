@@ -534,6 +534,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.ml-auto {
+  margin-left: auto;
+}
+
 .flex {
   display: flex;
 }
@@ -542,14 +546,74 @@ video {
   flex-direction: column;
 }
 
-.bg-sky-500\/100 {
-  background-color: rgb(14 165 233 / 1);
+.gap-\[16px\] {
+  gap: 16px;
 }
 
-.bg-sky-600\/100 {
-  background-color: rgb(2 132 199 / 1);
+.bg-gray-950\/100 {
+  background-color: rgb(3 7 18 / 1);
+}
+
+.bg-sky-300\/100 {
+  background-color: rgb(125 211 252 / 1);
+}
+
+.bg-sky-500\/100 {
+  background-color: rgb(14 165 233 / 1);
 }
 
 .bg-teal-300\/100 {
   background-color: rgb(94 234 212 / 1);
 }
+
+.px-\[41px\] {
+  padding-left: 41px;
+  padding-right: 41px;
+}
+
+.py-\[10px\] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-contenedor-superior {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom-width: 1px;
+  --tw-border-opacity: 1;
+  border-color: rgb(209 213 219 / var(--tw-border-opacity));
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 41px;
+  padding-right: 41px;
+}
+
+.header-contenedor-superior > ul:first-child {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  background-color: rgb(220 38 38 / 1);
+}
+
+.header-contenedor-inferior {
+  display: flex;
+  flex-direction: row;
+  gap: 52px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  padding-left: 41px;
+  padding-right: 41px;
+}
+
+.header-contenedor-inferior > ul:nth-child(2) {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+}
+

@@ -1,3 +1,54 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+header {
+
+    @apply flex flex-col;
+
+}
+
+.header-contenedor-superior {
+
+    @apply 
+    flex
+    flex-row
+    justify-between
+    py-[7px]
+    px-[41px]
+    border-b
+    border-gray-300;
+
+}
+
+.header-contenedor-superior > ul:first-child {
+
+    @apply 
+    flex 
+    gap-[10px] 
+    flex-row 
+    bg-red-600/100
+
+}
+
+.header-contenedor-inferior {
+
+    @apply
+    flex
+    flex-row
+    gap-[52px]
+    py-[21px]
+    px-[41px];
+
+}
+
+.header-contenedor-inferior > ul:nth-child(2) {
+
+    @apply
+    flex
+    flex-row
+    gap-[31px]
+    /*bg-red-600/100*/;
+
+}
+
