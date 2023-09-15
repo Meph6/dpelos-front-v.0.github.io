@@ -1,0 +1,5 @@
+@import './header.css';
+@import './contenido.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

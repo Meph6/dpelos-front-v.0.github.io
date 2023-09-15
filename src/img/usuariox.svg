@@ -1,0 +1,22 @@
+<svg width="384" height="277" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1">
+ <g>
+  <title>Layer 1</title>
+  <g stroke-width="0" id="svg_1">
+   <g id="svg_2">
+    <defs transform="translate(0 -0.25) translate(0.00875473 0) translate(0 -1)">
+     <rect height="278" width="384" y="1" id="SVGID_1_"/>
+    </defs>
+    <clipPath transform="translate(0 -0.25) translate(0.00875473 0) translate(0 -1)" id="SVGID_2_">
+     <use x="0.00875" y="-1.25" id="svg_3" xlink:href="#SVGID_1_"/>
+    </clipPath>
+    <path id="svg_4" stroke-miterlimit="10" stroke-width="22.4999" stroke="#000000" fill="none" clip-path="url(#SVGID_2_)" d="m193.33875,78.32c0,37.18 -29.5,67.31 -65.89,67.31c-36.39,0 -65.88,-30.14 -65.88,-67.31c0,-37.18 29.5,-67.32 65.88,-67.32c36.4,0 65.89,30.14 65.89,67.32l0,0zm0,0m-163.93,187.68c-11.23,0 -19.88,-10.34 -17.87,-21.63c9.97,-56.16 58.07,-98.75 115.92,-98.75c57.84,0 105.95,42.59 115.92,98.75c2,11.29 -6.65,21.63 -17.88,21.63l-196.09,0zm0,0m304.38,-197.04c0,28.78 -22.83,52.11 -51,52.11c-28.17,0 -51,-23.33 -51,-52.11s22.83,-52.11 51,-52.11c28.17,0 51,23.33 51,52.11l0,0zm0,0m-132.43,103.29c15.03,-30.36 45.85,-51.18 81.44,-51.18c44.77,0 82.01,32.97 89.73,76.44c1.55,8.73 -5.15,16.74 -13.84,16.74l-124.84,0" class="st0"/>
+   </g>
+  </g>
+  <g id="svg_5"/>
+  <g id="svg_6"/>
+  <g id="svg_7"/>
+  <g id="svg_8"/>
+  <g id="svg_9"/>
+  <g id="svg_10"/>
+ </g>
+</svg>

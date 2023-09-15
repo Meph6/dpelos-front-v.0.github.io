@@ -1,0 +1,104 @@
+@import './header.css';
+@import './main.css';
+@import './contendio.css';
+@import './fontello.css';
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img {
+
+    display: block;
+
+}
+
+ul {
+
+    list-style-type: none;
+
+}
+
+a {
+
+    color: black;
+    text-decoration: none;
+    font-weight: 100;
+    
+}
+
+
+@font-face{
+
+    font-family: inter-light;
+    src: url(../fonts/Inter/Inter-Light.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: inter-regular;
+    src: url(../fonts/Inter/Inter-Regular.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: inter-medium;
+    src: url(../fonts/Inter/Inter-Medium.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: inter-semibold;
+    src: url(../fonts/Inter/Inter-SemiBold.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: inter-bold;
+    src: url(../fonts/Inter/Inter-Bold.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: circular-black;
+    src: url(../fonts/Circular/CircularStd-Black.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: circular-bold;
+    src: url(../fonts/Circular/CircularStd-Bold.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: circular-light;
+    src: url(../fonts/Circular/CircularStd-Light.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: circular-medium;
+    src: url(../fonts/Circular/CircularStd-Medium.otf) format('opentype');
+
+}
+
+@font-face{
+
+    font-family: circular-book;
+    src: url(../fonts/Circular/CircularStd-Book.otf) format('opentype');
+
+}

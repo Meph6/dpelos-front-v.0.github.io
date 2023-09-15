@@ -1,12 +1,12 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 header {
 
     @apply flex flex-col;
 
 }
+
+/*---------------------------------------------------*/
+/*---------- [HEADER CONTENEDOR SUPERIOR] -----------*/
+/*---------------------------------------------------*/
 
 .header-contenedor-superior {
 
@@ -21,15 +21,19 @@ header {
 
 }
 
-.header-contenedor-superior > ul:first-child {
+.header-contenedor-superior-secundario > ul {
 
     @apply 
-    flex 
+    flex
+    flex-row
     gap-[10px] 
-    flex-row 
-    bg-red-600/100
+    bg-sky-600/100
 
 }
+
+/*---------------------------------------------------*/
+/*---------- [HEADER CONTENEDOR INFERIOR] -----------*/
+/*---------------------------------------------------*/
 
 .header-contenedor-inferior {
 
@@ -51,4 +55,3 @@ header {
     /*bg-red-600/100*/;
 
 }
-

@@ -1,0 +1,18 @@
+.descripcion-contenedor-pagina {
+
+    @apply 
+    flex 
+    flex-col 
+    gap-[16px] 
+    px-[41px] 
+    py-[39px] 
+    bg-gray-950/100;
+    color: white;
+}
+
+.h1 {
+
+    font-size: 1rem;
+    font-weight: bold;
+
+}
